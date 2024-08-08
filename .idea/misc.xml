@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/Synchronized-keyword/pom.xml" />
         <option value="$PROJECT_DIR$/Inter-Thread-Communication/pom.xml" />
         <option value="$PROJECT_DIR$/Thread-Priority/pom.xml" />
+        <option value="$PROJECT_DIR$/Thread-Pool/pom.xml" />
       </list>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />

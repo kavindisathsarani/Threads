@@ -14,6 +14,7 @@
         <module name="Lambda-Expression" />
         <module name="Thread-Priority" />
         <module name="introduction" />
+        <module name="Thread-Pool" />
       </profile>
     </annotationProcessing>
   </component>
