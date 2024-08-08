@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/Lambda-Expression/pom.xml" />
         <option value="$PROJECT_DIR$/Join-isAlive/pom.xml" />
         <option value="$PROJECT_DIR$/Synchronized-keyword/pom.xml" />
+        <option value="$PROJECT_DIR$/Inter-Thread-Communication/pom.xml" />
+        <option value="$PROJECT_DIR$/Thread-Priority/pom.xml" />
       </list>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
