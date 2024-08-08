@@ -6,7 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Synchronized-keyword" />
+        <module name="Join-isAlive" />
+        <module name="Extend-Thread-Class" />
+        <module name="Lambda-Expression" />
         <module name="introduction" />
+        <module name="Implement-Runnable-Interface" />
       </profile>
     </annotationProcessing>
   </component>
